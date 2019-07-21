@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render expenseDashBoardPage correctly 1`] = `
+<div>
+  <Connect(ExponentListFilters) />
+  <Connect(ExpenseList) />
+</div>
+`;
